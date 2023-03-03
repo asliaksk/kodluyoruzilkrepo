@@ -2,7 +2,7 @@
 ------------------------------------
 Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor 
 
-![Image](file:///C:/Users/aslia/Pictures/Screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-03-03%20213131.png)
+![Image](https://github.com/asliaksk/kodluyoruzilkrepo/blob/main/Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-03-03%20213131.png)
 
 ## Installation
 ------------------------------
